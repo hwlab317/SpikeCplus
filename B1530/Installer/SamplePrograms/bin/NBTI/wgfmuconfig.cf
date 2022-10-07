@@ -1,0 +1,8 @@
+<Application>
+CONFIG
+</Application>
+<Setting>
+VisaId:GPIB0
+GpibAddress:17
+checkBoxDebugEnable:False
+</Setting>

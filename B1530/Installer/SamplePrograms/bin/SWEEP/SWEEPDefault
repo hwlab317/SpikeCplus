@@ -1,0 +1,56 @@
+<Application>
+SWEEP
+</Application>
+<Setting>
+checkBoxSource1Meas:True
+comboBoxSource1Ch:0:101
+comboBoxSource1OperationMode:1:PG Mmode
+comboBoxSource1MeasMode:0:V Measurement
+comboBoxSource1ForceRange:0:Auto
+comboBoxSource1IMeasRange:4:+/-10 mA Fixed
+comboBoxSource1VMeasRange:0:+/- 5 V
+textBoxSource1HwSkew:-50E-9
+checkBoxSource1RawData:False
+checkBoxSource2Meas:True
+comboBoxSource2Ch:1:102
+comboBoxSource2OperationMode:0:Fast IV mode
+comboBoxSource2MeasMode:1:I Measurement
+comboBoxSource2ForceRange:0:Auto
+comboBoxSource2IMeasRange:4:+/-10 mA Fixed
+comboBoxSource2VMeasRange:0:+/- 5 V
+textBoxSource2HwSkew:50E-9
+checkBoxSource2RawData:False
+comboBoxBiasSource1Type:0:N/A
+comboBoxBiasSource1Ch:0:N/A
+textBoxBiasSource1BiasV:0.0
+textBoxBiasSource1Compliance:100E-6
+comboBoxBiasSource2Type:0:N/A
+comboBoxBiasSource2Ch:0:N/A
+textBoxBiasSource2BiasV:0.0
+textBoxBiasSource2Compliance:100E-6
+textBoxStartV:0
+textBoxStopV:0
+textBoxStepNum:1
+textBoxStepEdge:100E-9
+textBoxHold:100E-9
+textBoxMeasurementDelay:200E-9
+textBoxAveragingTime:200E-9
+textBoxStepDelay:200E-9
+textBoxConstantBiasV:0
+comboSweepSourceCh:0:Source 1
+comboBoxSweepType:0:Staircase
+textBoxOutputSequenceDelay:0.0
+textBoxTerminationDelay:0
+checkBoxDualSweep:False
+textBoxDualSweepDelay:100E-9
+textBoxSweepPulseBase:0
+textBoxSweepPulsePeriod:2E-6
+textBoxSweepPulseWidth:1E-6
+textBoxSweepPulseRiseTime:100E-9
+textBoxSweepPulseDelay:0.0
+checkBoxConstPulse:True
+textBoxConstPulseBase:0.0
+textBoxConstPulseWidth:1E-6
+textBoxConstPulseRiseTime:100E-9
+textBoxConstPulseDelay:0.0
+</Setting>

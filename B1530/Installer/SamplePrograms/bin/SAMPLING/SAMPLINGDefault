@@ -1,0 +1,53 @@
+<Application>
+SAMPLING
+</Application>
+<Setting>
+checkBoxSource1Meas:True
+comboBoxSource1Ch:0:101
+comboBoxSource1OperationMode:0:Fast IV mode
+comboBoxSource1MeasMode:0:V Measurement
+comboBoxSource1ForceRange:0:Auto
+comboBoxSource1IMeasRange:4:+/-10 mA Fixed
+comboBoxSource1VMeasRange:0:+/- 5 V
+textBoxSource1HwSkew:0.0
+checkBoxSource1RawData:False
+checkBoxSource2Meas:True
+comboBoxSource2Ch:1:102
+comboBoxSource2OperationMode:0:Fast IV mode
+comboBoxSource2MeasMode:1:I Measurement
+comboBoxSource2ForceRange:0:Auto
+comboBoxSource2IMeasRange:4:+/-10 mA Fixed
+comboBoxSource2VMeasRange:0:+/- 5 V
+textBoxSource2HwSkew:0.0
+checkBoxSource2RawData:False
+comboBoxBiasSource1Type:0:N/A
+comboBoxBiasSource1Ch:0:N/A
+textBoxBiasSource1BiasV:0.0
+textBoxBiasSource1Compliance:100E-6
+comboBoxBiasSource2Type:0:N/A
+comboBoxBiasSource2Ch:0:N/A
+textBoxBiasSource2BiasV:0.0
+textBoxBiasSource2Compliance:100E-6
+comboBoxSamplingMode:0:LINEAR
+textBoxMeasDelay:0
+textBoxInitialInterval:10E-9
+textBoxSamplingPoints:1
+textBoxAveragingTime:10E-9
+textBoxSource1BaseV:0.0
+textBoxSource1SourceV:0
+textBoxSource2BaseV:0.0
+textBoxSource2SourceV:0.0
+checkBoxEnableSecondaryMeas:False
+comboBoxSource1SecondMeasRange:0:+/- 5 V
+comboBoxSource2SecondMeasRange:4:+/- 10 mA
+comboBoxSecondSamplingMode:0:LINEAR
+textBoxSecondMeasOrigin:100E-9
+textBoxSecondMeasDelay:0
+textBoxSecondInitialInterval:10E-9
+textBoxSecondSamplingPoints:1
+textBoxSecondAveragingTime:10E-9
+textBoxBaseHold:0
+textBoxBaseToSourceEdge:100E-9
+textBoxOutputSequenceDelay:0.0
+textBoxTerminationDelay:0
+</Setting>

@@ -1,0 +1,36 @@
+<Application>
+DATASAMPLER
+</Application>
+<Setting>
+checkBoxSource1Meas:True
+comboBoxSource1Ch:0:101
+comboBoxSource1OperationMode:1:PG Mmode
+comboBoxSource1MeasMode:0:V Measurement
+comboBoxSource1ForceRange:0:Auto
+comboBoxSource1IMeasRange:4:+/-10 mA Fixed
+comboBoxSource1VMeasRange:0:+/- 5 V
+textBoxSource1HwSkew:0.0
+checkBoxSource2Meas:True
+comboBoxSource2Ch:1:102
+comboBoxSource2OperationMode:0:Fast IV mode
+comboBoxSource2MeasMode:1:I Measurement
+comboBoxSource2ForceRange:0:Auto
+comboBoxSource2IMeasRange:4:+/-10 mA Fixed
+comboBoxSource2VMeasRange:0:+/- 5 V
+textBoxSource2HwSkew:0.0
+comboBoxBiasSource1Type:0:N/A
+comboBoxBiasSource1Ch:0:N/A
+textBoxBiasSource1BiasV:0.0
+textBoxBiasSource1Compliance:100E-6
+comboBoxBiasSource2Type:0:N/A
+comboBoxBiasSource2Ch:0:N/A
+textBoxBiasSource2BiasV:0.0
+textBoxBiasSource2Compliance:100E-6
+textBoxSamplingRate:10E+3
+textBoxMeasurementDelay:1E-3
+textBoxDuration:1E-3
+textBoxAveragingTime:1.E-04
+textBoxSource1SourceV:0
+textBoxSource2SourceV:0
+textBoxStepEdge:100E-9
+</Setting>
