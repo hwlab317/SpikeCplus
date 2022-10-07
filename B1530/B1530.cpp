@@ -1,6 +1,6 @@
 # include <stdio.h>
 # include <stdlib.h>
-# include "wgfmu.h"
+# include "wgfmu.h" //packages
 # include <visa.h>
 
 
